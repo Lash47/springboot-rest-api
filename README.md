@@ -786,7 +786,7 @@ A: Yes! Use Newman (Postman CLI) or Collection Runner feature in Postman
 For issues or questions, please:
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Open an issue on GitHub
-3. Contact the author at your-email@example.com
+3. Contact the author at luckyashish47@gmail.com
 
 ---
 
